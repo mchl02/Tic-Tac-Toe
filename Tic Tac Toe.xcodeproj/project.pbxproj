@@ -14,6 +14,9 @@
 		E8337E8721EBF1240003B488 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8337E8521EBF1240003B488 /* LaunchScreen.storyboard */; };
 		E8337E9221EBF1240003B488 /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8337E9121EBF1240003B488 /* Tic_Tac_ToeTests.swift */; };
 		E8337E9D21EBF1240003B488 /* Tic_Tac_ToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8337E9C21EBF1240003B488 /* Tic_Tac_ToeUITests.swift */; };
+		E8337EAE21ED433A0003B488 /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = E8337EAB21ED433A0003B488 /* x.png */; };
+		E8337EAF21ED433A0003B488 /* greencircle.png in Resources */ = {isa = PBXBuildFile; fileRef = E8337EAC21ED433A0003B488 /* greencircle.png */; };
+		E89B6A4E21EE504A00AED16B /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = E89B6A4D21EE504A00AED16B /* board.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		E8337E9821EBF1240003B488 /* Tic Tac ToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tic Tac ToeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8337E9C21EBF1240003B488 /* Tic_Tac_ToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeUITests.swift; sourceTree = "<group>"; };
 		E8337E9E21EBF1240003B488 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8337EAB21ED433A0003B488 /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = x.png; path = ../../x.png; sourceTree = "<group>"; };
+		E8337EAC21ED433A0003B488 /* greencircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = greencircle.png; path = ../../greencircle.png; sourceTree = "<group>"; };
+		E89B6A4D21EE504A00AED16B /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +109,9 @@
 				E8337E8321EBF1240003B488 /* Assets.xcassets */,
 				E8337E8521EBF1240003B488 /* LaunchScreen.storyboard */,
 				E8337E8821EBF1240003B488 /* Info.plist */,
+				E8337EAC21ED433A0003B488 /* greencircle.png */,
+				E89B6A4D21EE504A00AED16B /* board.png */,
+				E8337EAB21ED433A0003B488 /* x.png */,
 			);
 			path = "Tic Tac Toe";
 			sourceTree = "<group>";
@@ -231,7 +240,10 @@
 			files = (
 				E8337E8721EBF1240003B488 /* LaunchScreen.storyboard in Resources */,
 				E8337E8421EBF1240003B488 /* Assets.xcassets in Resources */,
+				E89B6A4E21EE504A00AED16B /* board.png in Resources */,
+				E8337EAE21ED433A0003B488 /* x.png in Resources */,
 				E8337E8221EBF1200003B488 /* Main.storyboard in Resources */,
+				E8337EAF21ED433A0003B488 /* greencircle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
