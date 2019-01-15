@@ -107,9 +107,9 @@
 				E8337E7E21EBF1200003B488 /* ViewController.swift */,
 				E8337E8021EBF1200003B488 /* Main.storyboard */,
 				E8337E8321EBF1240003B488 /* Assets.xcassets */,
+				E89B6A4D21EE504A00AED16B /* board.png */,
 				E8337E8521EBF1240003B488 /* LaunchScreen.storyboard */,
 				E8337E8821EBF1240003B488 /* Info.plist */,
-				E89B6A4D21EE504A00AED16B /* board.png */,
 				E89B6A4F21EE518B00AED16B /* x.png */,
 				E89B6A5121EE518F00AED16B /* greencircle.png */,
 			);
